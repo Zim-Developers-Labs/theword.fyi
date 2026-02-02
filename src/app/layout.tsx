@@ -15,6 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "theword.fyi",
   description: "A Christian Bible Blog.",
+  openGraph: {
+    images: "/banner.webp",
+  },
 };
 
 export default function RootLayout({
