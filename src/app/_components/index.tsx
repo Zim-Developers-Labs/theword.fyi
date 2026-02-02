@@ -10,7 +10,7 @@ export default function HomePageComponents() {
         <p className="text-lg">A Christian Bible Blog.</p>
         <aside className="mt-12 text-sm">
           Maintained by{" "}
-          <Link href="https://zimdevelopers.com" className="underline">
+          <Link href="https://www.zimdevelopers.com" className="underline">
             Zim Developers Labs
           </Link>
           .
